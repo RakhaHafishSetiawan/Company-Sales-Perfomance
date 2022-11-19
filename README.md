@@ -2,7 +2,7 @@
 
 
 # Sales-Insight-Analysis
-A Habis Kerja Business Analytics Course case study on the company's sales performance. This visualization answers the question of the item stock quantity, most sold items, and annual revenue of the company.
+A Habis Kerja Business Analytics Course case study on the company's sales performance. This visualization answers the question of the item stock quantity, most sold items, and annual revenue of the company. This repository also contains the certificate of competence to prove my completion of the course.
 
 # Tools
 • Microsoft Excel <br>
