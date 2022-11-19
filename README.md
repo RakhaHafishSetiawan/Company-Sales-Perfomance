@@ -2,7 +2,7 @@
 
 
 # Sales-Insight-Analysis
-A Habis Kerja Business Analytics Course case study on the companie's sales performance. The files contained within this repository is avalaible on the .pbix and .png format. Feel free to take a look and download them.
+A Habis Kerja Business Analytics Course case study on the company's sales performance. This visualization answers the question of the item stock quantity, most sold items, and annual revenue of the company.
 
 # Tools
 • Microsoft Excel <br>
