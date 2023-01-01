@@ -1,4 +1,5 @@
-![Screenshot (401)](https://user-images.githubusercontent.com/102712597/197969279-c3791da9-ca8c-4cf4-9a75-5e8d7b6da7b3.png)
+![Screenshot (448)](https://user-images.githubusercontent.com/102712597/210173132-7a139a8a-1ddf-4598-a555-065d86c522d3.png)
+
 
 
 # Sales-Insight-Analysis
