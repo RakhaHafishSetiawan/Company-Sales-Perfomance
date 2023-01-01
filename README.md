@@ -2,7 +2,7 @@
 
 
 # Project Overview
-A Habis Kerja Business Analytics Course case study on the company's sales performance. This Power BI dashboard contains the insights of the company's sales perfomrance and answers business related question such as item stock quantity, most sold items, and annual revenue of the company (Ranging from 2015 to 2017). This repository also contains the certificate of competence to prove my completion of the course.
+A Habis Kerja Business Analytics Course case study on the company's sales performance. This Power BI dashboard contains the insights of the company's sales performance and answers business related question such as item stock quantity, most sold items, and annual revenue of the company (Ranging from 2015 to 2017). This repository also contains the certificate of competence to prove my completion of the course.
 
 # Tools
 • Microsoft Excel <br>
